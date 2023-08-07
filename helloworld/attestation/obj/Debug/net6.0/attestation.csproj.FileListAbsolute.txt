@@ -1,0 +1,15 @@
+D:\learn c#\helloworld\attestation\bin\Debug\net6.0\attestation.exe
+D:\learn c#\helloworld\attestation\bin\Debug\net6.0\attestation.deps.json
+D:\learn c#\helloworld\attestation\bin\Debug\net6.0\attestation.runtimeconfig.json
+D:\learn c#\helloworld\attestation\bin\Debug\net6.0\attestation.dll
+D:\learn c#\helloworld\attestation\bin\Debug\net6.0\attestation.pdb
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.csproj.AssemblyReference.cache
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.AssemblyInfoInputs.cache
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.AssemblyInfo.cs
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.csproj.CoreCompileInputs.cache
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.dll
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\refint\attestation.dll
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.pdb
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\attestation.genruntimeconfig.cache
+D:\learn c#\helloworld\attestation\obj\Debug\net6.0\ref\attestation.dll
